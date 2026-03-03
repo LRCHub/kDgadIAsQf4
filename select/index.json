@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "The rock is you!",
+  "base_artist": "≒JOY",
+  "createdAt": "2026-03-03T06:39:28.495817Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The rock is you!",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_The_rock_is_you!_≒JOY.txt"
+    }
+  ]
+}
